@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: project_h1729.github.io
+  baseUrl: harsha032004.github.io/obsidian-web
   ignorePatterns:
     - private
     - templates
