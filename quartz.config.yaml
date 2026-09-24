@@ -1,6 +1,10 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
+<<<<<<< HEAD
   pageTitle: Quartz 5
+=======
+  pageTitle: "Welcome to my ideas"
+>>>>>>> 37636d823cc7ea330d414cbaae664ed7c475c26a
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
